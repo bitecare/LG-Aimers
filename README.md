@@ -1,1 +1,1 @@
-# LG-Aimers
+# LG-Aimers 3기

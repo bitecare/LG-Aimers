@@ -1,7 +1,7 @@
 # LG-Aimers 3기
 
 온라인 채널 제품 판매량 예측 AI 온라인 해커톤 대회에 참가  
-특정 온라인 쇼핑몰의 459일치 제품별 판매량 데이터를 주고 향후 3주간의 제품별 판매량을 예측하는 것이 목표 
+# 특정 온라인 쇼핑몰의 459일치 제품별 판매량 데이터를 주고 향후 3주간의 제품별 판매량을 예측하는 것이 목표 
 
 ![Private 8th Team 치킨마요덮밥 (1)_pages-to-jpg-0001](https://github.com/user-attachments/assets/4571bb88-85f8-4944-86ca-8c7f2d869ea8)
 ![Private 8th Team 치킨마요덮밥 (1)_pages-to-jpg-0002](https://github.com/user-attachments/assets/572493b1-b1c6-488a-a78e-0a48cd06993c)
